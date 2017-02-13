@@ -1,6 +1,7 @@
 Uuid: c4bfd29882974712a1d69c6d8f05874e
 ExtensionType: 1
 Name: Session Timeout Test
+RepoName: session-timeout-test
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
